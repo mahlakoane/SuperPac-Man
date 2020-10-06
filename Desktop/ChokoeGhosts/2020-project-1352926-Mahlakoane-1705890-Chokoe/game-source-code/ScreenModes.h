@@ -1,0 +1,6 @@
+#ifndef SCREENMODES_H
+#define SCREENMODES_H
+
+enum class ScreenModes {SPLASH_SCREEN, PLAY_SCREEN , GAMEOVER_WIN,GAMEOVER_LOSE};
+
+#endif // SCREENMODES_H
